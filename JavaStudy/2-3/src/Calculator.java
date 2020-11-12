@@ -1,8 +1,8 @@
-//package study;
+//package　study;
 
 public class Calculator {
 
-    protected static int plus(int a) {
+    protected static int plus(int a ) {
         return a + 1;
     }
 
